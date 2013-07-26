@@ -2,5 +2,8 @@ package racetrack
 
 class RaceController {
 
-    def index() { }
+//    def index() {
+//    }
+//}
+      def scaffold = Race
 }
